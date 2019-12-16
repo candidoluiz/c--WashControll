@@ -1,0 +1,1 @@
+D:\Programer\C#\WashControl\WashControl\bin\Debug\WashControl.exe.config
